@@ -19,3 +19,6 @@ This will open a plot that looks like this:
 You have to change the variable `N` to `10` and `100` on
 `pla_convergence_main.m` and `pla_probability_main.m` and then run
 each script like we did in with the perceptron demo above.
+
+octave:1> pla_convergence_main.m
+octave:1> pla_probability_main.m
